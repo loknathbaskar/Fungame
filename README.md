@@ -1,1 +1,1 @@
-# Fungame - Simple python program written to help daughter
+# Fungame - Simple python program written to help my daughter
